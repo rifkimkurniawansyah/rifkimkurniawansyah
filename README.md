@@ -3,7 +3,7 @@
 I'm a Software Engineer focused on developing applications and solutions in the field of Internet of Things (IoT).
 
 - 🔭 I'm currently working on **Freelance Projects**
-- 🌱 I’m currently learning **Spring Boot (Java), React JS, React Native, Laravel (PHP)**
+- 🌱 I’m currently learning **Spring Boot (Java), React JS, React Native**
 - 📫 How to reach me **rifkimohamadk@gmail.com**
 
 ## Connect with me:
